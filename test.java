@@ -2,9 +2,9 @@
  * FoodCourt.java Name: [Your Name] UA ID: [Your UA ID]
  */
 
+import java.util.Random;
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
-import java.util.Random;
 
 public class test {
     // Constants
@@ -40,7 +40,7 @@ public class test {
                 e.printStackTrace();
             }
             isOpen = false;
-            System.out.println("System: Time is up! No more customers are allowed in.");
+            System.out.println("Food Court is closed!");
         });
         systemThread.start();
 
@@ -79,6 +79,7 @@ public class test {
     static class Customer extends Thread {
         private final int id;
         private final Random random = new Random();
+        private final int counterIndex = random.nextInt(NUM_COUNTERS);
 
         public Customer(int id) {
             this.id = id;
@@ -113,7 +114,6 @@ public class test {
         }
 
         private void chooseCounter() {
-            int counterIndex = random.nextInt(NUM_COUNTERS);
             try {
                 counters[counterIndex].acquire();
                 counterCounts[counterIndex].incrementAndGet();
