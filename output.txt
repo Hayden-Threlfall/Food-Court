@@ -1,0 +1,631 @@
+Script started on 2024-11-21 20:23:56-0600
+haydent@turing: ~haydent@turing:~$ script Threlfall-Hw9.txt javac FoodCourt.java
+haydent@turing: ~haydent@turing:~$ java FoodCourt 200 250
+Customer 0 arives at the food court.
+Customer 0 enters the waiting area.
+Customer 0 leaves waiting area and joins Counter 2 (Counter count: 1)
+Customer 0 leaves Counter 2 and joins Cashiers Lane.
+Customer 1 arives at the food court.
+Customer 1 enters the waiting area.
+Customer 1 leaves waiting area and joins Counter 2 (Counter count: 1)
+Customer 0 leaves the food court.
+Customer 2 arives at the food court.
+Customer 2 enters the waiting area.
+Customer 2 leaves waiting area and joins Counter 3 (Counter count: 1)
+Customer 1 leaves Counter 2 and joins Cashiers Lane.
+Customer 3 arives at the food court.
+Customer 3 enters the waiting area.
+Customer 3 leaves waiting area and joins Counter 2 (Counter count: 1)
+Customer 2 leaves Counter 3 and joins Cashiers Lane.
+Customer 4 arives at the food court.
+Customer 4 enters the waiting area.
+Customer 4 leaves waiting area and joins Counter 1 (Counter count: 1)
+Customer 1 leaves the food court.
+Customer 3 leaves Counter 2 and joins Cashiers Lane.
+Customer 3 leaves the food court.
+Customer 5 arives at the food court.
+Customer 5 enters the waiting area.
+Customer 5 leaves waiting area and joins Counter 2 (Counter count: 1)
+Customer 2 leaves the food court.
+Customer 4 leaves Counter 1 and joins Cashiers Lane.
+Customer 5 leaves Counter 2 and joins Cashiers Lane.
+Customer 6 arives at the food court.
+Customer 6 enters the waiting area.
+Customer 6 leaves waiting area and joins Counter 3 (Counter count: 1)
+Customer 4 leaves the food court.
+Customer 6 leaves Counter 3 and joins Cashiers Lane.
+Customer 7 arives at the food court.
+Customer 7 enters the waiting area.
+Customer 7 leaves waiting area and joins Counter 3 (Counter count: 1)
+Customer 5 leaves the food court.
+Customer 8 arives at the food court.
+Customer 8 enters the waiting area.
+Customer 8 leaves waiting area and joins Counter 1 (Counter count: 1)
+Customer 9 arives at the food court.
+Customer 9 enters the waiting area.
+Customer 9 leaves waiting area and joins Counter 1 (Counter count: 1)
+Customer 6 leaves the food court.
+Customer 10 arives at the food court.
+Customer 10 enters the waiting area.
+Customer 10 leaves waiting area and joins Counter 2 (Counter count: 1)
+Customer 7 leaves Counter 3 and joins Cashiers Lane.
+Customer 8 leaves Counter 1 and joins Cashiers Lane.
+Customer 10 leaves Counter 2 and joins Cashiers Lane.
+Customer 11 arives at the food court.
+Customer 11 enters the waiting area.
+Customer 11 leaves waiting area and joins Counter 2 (Counter count: 1)
+Customer 9 leaves Counter 1 and joins Cashiers Lane.
+Customer 7 leaves the food court.
+Customer 8 leaves the food court.
+Customer 9 leaves the food court.
+Customer 11 leaves Counter 2 and joins Cashiers Lane.
+Customer 12 arives at the food court.
+Customer 12 enters the waiting area.
+Customer 12 leaves waiting area and joins Counter 3 (Counter count: 1)
+Customer 10 leaves the food court.
+Customer 11 leaves the food court.
+Customer 13 arives at the food court.
+Customer 13 enters the waiting area.
+Customer 13 leaves waiting area and joins Counter 1 (Counter count: 1)
+Customer 12 leaves Counter 3 and joins Cashiers Lane.
+Customer 13 leaves Counter 1 and joins Cashiers Lane.
+Customer 13 leaves the food court.
+Customer 14 arives at the food court.
+Customer 14 enters the waiting area.
+Customer 14 leaves waiting area and joins Counter 1 (Counter count: 1)
+Customer 12 leaves the food court.
+Customer 15 arives at the food court.
+Customer 15 enters the waiting area.
+Customer 15 leaves waiting area and joins Counter 3 (Counter count: 1)
+Customer 16 arives at the food court.
+Customer 16 enters the waiting area.
+Customer 16 leaves waiting area and joins Counter 1 (Counter count: 1)
+Customer 16 leaves Counter 1 and joins Cashiers Lane.
+Customer 15 leaves Counter 3 and joins Cashiers Lane.
+Customer 14 leaves Counter 1 and joins Cashiers Lane.
+Customer 14 leaves the food court.
+Customer 17 arives at the food court.
+Customer 17 enters the waiting area.
+Customer 17 leaves waiting area and joins Counter 1 (Counter count: 1)
+Customer 17 leaves Counter 1 and joins Cashiers Lane.
+Customer 16 leaves the food court.
+Customer 15 leaves the food court.
+Customer 17 leaves the food court.
+Customer 18 arives at the food court.
+Customer 18 enters the waiting area.
+Customer 18 leaves waiting area and joins Counter 3 (Counter count: 1)
+Customer 18 leaves Counter 3 and joins Cashiers Lane.
+Customer 18 leaves the food court.
+Customer 19 arives at the food court.
+Customer 19 enters the waiting area.
+Customer 19 leaves waiting area and joins Counter 1 (Counter count: 1)
+Customer 20 arives at the food court.
+Customer 20 enters the waiting area.
+Customer 20 leaves waiting area and joins Counter 3 (Counter count: 1)
+Customer 19 leaves Counter 1 and joins Cashiers Lane.
+Customer 20 leaves Counter 3 and joins Cashiers Lane.
+Customer 19 leaves the food court.
+Customer 20 leaves the food court.
+Customer 21 arives at the food court.
+Customer 21 enters the waiting area.
+Customer 21 leaves waiting area and joins Counter 3 (Counter count: 1)
+Customer 21 leaves Counter 3 and joins Cashiers Lane.
+Customer 22 arives at the food court.
+Customer 22 enters the waiting area.
+Customer 22 leaves waiting area and joins Counter 2 (Counter count: 1)
+Customer 21 leaves the food court.
+Customer 23 arives at the food court.
+Customer 23 enters the waiting area.
+Customer 23 leaves waiting area and joins Counter 1 (Counter count: 1)
+Customer 24 arives at the food court.
+Customer 24 enters the waiting area.
+Customer 24 leaves waiting area and joins Counter 1 (Counter count: 1)
+Customer 23 leaves Counter 1 and joins Cashiers Lane.
+Customer 23 leaves the food court.
+Customer 22 leaves Counter 2 and joins Cashiers Lane.
+Customer 25 arives at the food court.
+Customer 25 enters the waiting area.
+Customer 25 leaves waiting area and joins Counter 3 (Counter count: 1)
+Customer 26 arives at the food court.
+Customer 26 enters the waiting area.
+Customer 26 leaves waiting area and joins Counter 2 (Counter count: 1)
+Customer 22 leaves the food court.
+Customer 27 arives at the food court.
+Customer 27 enters the waiting area.
+Customer 27 leaves waiting area and joins Counter 2 (Counter count: 1)
+Customer 24 leaves Counter 1 and joins Cashiers Lane.
+Customer 26 leaves Counter 2 and joins Cashiers Lane.
+Customer 25 leaves Counter 3 and joins Cashiers Lane.
+Customer 24 leaves the food court.
+Customer 28 arives at the food court.
+Customer 28 enters the waiting area.
+Customer 28 leaves waiting area and joins Counter 3 (Counter count: 1)
+Customer 27 leaves Counter 2 and joins Cashiers Lane.
+Customer 26 leaves the food court.
+Customer 25 leaves the food court.
+Customer 27 leaves the food court.
+Customer 29 arives at the food court.
+Customer 29 enters the waiting area.
+Customer 29 leaves waiting area and joins Counter 3 (Counter count: 1)
+Customer 29 leaves Counter 3 and joins Cashiers Lane.
+Customer 28 leaves Counter 3 and joins Cashiers Lane.
+Customer 28 leaves the food court.
+Customer 30 arives at the food court.
+Customer 30 enters the waiting area.
+Customer 30 leaves waiting area and joins Counter 3 (Counter count: 1)
+Customer 29 leaves the food court.
+Customer 31 arives at the food court.
+Customer 31 enters the waiting area.
+Customer 31 leaves waiting area and joins Counter 2 (Counter count: 1)
+Customer 30 leaves Counter 3 and joins Cashiers Lane.
+Customer 32 arives at the food court.
+Customer 32 enters the waiting area.
+Customer 32 leaves waiting area and joins Counter 1 (Counter count: 1)
+Customer 32 leaves Counter 1 and joins Cashiers Lane.
+Customer 31 leaves Counter 2 and joins Cashiers Lane.
+Customer 31 leaves the food court.
+Customer 30 leaves the food court.
+Customer 33 arives at the food court.
+Customer 33 enters the waiting area.
+Customer 33 leaves waiting area and joins Counter 3 (Counter count: 1)
+Customer 34 arives at the food court.
+Customer 34 enters the waiting area.
+Customer 34 leaves waiting area and joins Counter 3 (Counter count: 1)
+Customer 32 leaves the food court.
+Customer 34 leaves Counter 3 and joins Cashiers Lane.
+Customer 35 arives at the food court.
+Customer 35 enters the waiting area.
+Customer 35 leaves waiting area and joins Counter 2 (Counter count: 1)
+Customer 35 leaves Counter 2 and joins Cashiers Lane.
+Customer 34 leaves the food court.
+Customer 36 arives at the food court.
+Customer 36 enters the waiting area.
+Customer 36 leaves waiting area and joins Counter 3 (Counter count: 1)
+Customer 33 leaves Counter 3 and joins Cashiers Lane.
+Customer 36 leaves Counter 3 and joins Cashiers Lane.
+Customer 33 leaves the food court.
+Customer 35 leaves the food court.
+Customer 36 leaves the food court.
+Customer 37 arives at the food court.
+Customer 37 enters the waiting area.
+Customer 37 leaves waiting area and joins Counter 2 (Counter count: 1)
+Customer 37 leaves Counter 2 and joins Cashiers Lane.
+Customer 38 arives at the food court.
+Customer 38 enters the waiting area.
+Customer 38 leaves waiting area and joins Counter 3 (Counter count: 1)
+Customer 37 leaves the food court.
+Customer 38 leaves Counter 3 and joins Cashiers Lane.
+Customer 39 arives at the food court.
+Customer 39 enters the waiting area.
+Customer 39 leaves waiting area and joins Counter 2 (Counter count: 1)
+Customer 39 leaves Counter 2 and joins Cashiers Lane.
+Customer 38 leaves the food court.
+Customer 40 arives at the food court.
+Customer 40 enters the waiting area.
+Customer 40 leaves waiting area and joins Counter 1 (Counter count: 1)
+Food Court is closed!
+Customer 39 leaves the food court.
+Customer 40 leaves Counter 1 and joins Cashiers Lane.
+Customer 41 arives at the food court.
+The customer 41 leaves the food court in frustration. Food court is closed.
+Customer 40 leaves the food court.
+Customer 42 arives at the food court.
+The customer 42 leaves the food court in frustration. Food court is closed.
+Customer 43 arives at the food court.
+The customer 43 leaves the food court in frustration. Food court is closed.
+Customer 44 arives at the food court.
+The customer 44 leaves the food court in frustration. Food court is closed.
+Customer 45 arives at the food court.
+The customer 45 leaves the food court in frustration. Food court is closed.
+Customer 46 arives at the food court.
+The customer 46 leaves the food court in frustration. Food court is closed.
+Customer 47 arives at the food court.
+The customer 47 leaves the food court in frustration. Food court is closed.
+Customer 48 arives at the food court.
+The customer 48 leaves the food court in frustration. Food court is closed.
+Customer 49 arives at the food court.
+The customer 49 leaves the food court in frustration. Food court is closed.
+Customer 50 arives at the food court.
+The customer 50 leaves the food court in frustration. Food court is closed.
+Customer 51 arives at the food court.
+The customer 51 leaves the food court in frustration. Food court is closed.
+Customer 52 arives at the food court.
+The customer 52 leaves the food court in frustration. Food court is closed.
+Customer 53 arives at the food court.
+The customer 53 leaves the food court in frustration. Food court is closed.
+Customer 54 arives at the food court.
+The customer 54 leaves the food court in frustration. Food court is closed.
+Customer 55 arives at the food court.
+The customer 55 leaves the food court in frustration. Food court is closed.
+Customer 56 arives at the food court.
+The customer 56 leaves the food court in frustration. Food court is closed.
+Customer 57 arives at the food court.
+The customer 57 leaves the food court in frustration. Food court is closed.
+Customer 58 arives at the food court.
+The customer 58 leaves the food court in frustration. Food court is closed.
+Customer 59 arives at the food court.
+The customer 59 leaves the food court in frustration. Food court is closed.
+Customer 60 arives at the food court.
+The customer 60 leaves the food court in frustration. Food court is closed.
+Customer 61 arives at the food court.
+The customer 61 leaves the food court in frustration. Food court is closed.
+Customer 62 arives at the food court.
+The customer 62 leaves the food court in frustration. Food court is closed.
+Customer 63 arives at the food court.
+The customer 63 leaves the food court in frustration. Food court is closed.
+Customer 64 arives at the food court.
+The customer 64 leaves the food court in frustration. Food court is closed.
+Customer 65 arives at the food court.
+The customer 65 leaves the food court in frustration. Food court is closed.
+Customer 66 arives at the food court.
+The customer 66 leaves the food court in frustration. Food court is closed.
+Customer 67 arives at the food court.
+The customer 67 leaves the food court in frustration. Food court is closed.
+Customer 68 arives at the food court.
+The customer 68 leaves the food court in frustration. Food court is closed.
+Customer 69 arives at the food court.
+The customer 69 leaves the food court in frustration. Food court is closed.
+Customer 70 arives at the food court.
+The customer 70 leaves the food court in frustration. Food court is closed.
+Customer 71 arives at the food court.
+The customer 71 leaves the food court in frustration. Food court is closed.
+Customer 72 arives at the food court.
+The customer 72 leaves the food court in frustration. Food court is closed.
+Customer 73 arives at the food court.
+The customer 73 leaves the food court in frustration. Food court is closed.
+Customer 74 arives at the food court.
+The customer 74 leaves the food court in frustration. Food court is closed.
+Customer 75 arives at the food court.
+The customer 75 leaves the food court in frustration. Food court is closed.
+Customer 76 arives at the food court.
+The customer 76 leaves the food court in frustration. Food court is closed.
+Customer 77 arives at the food court.
+The customer 77 leaves the food court in frustration. Food court is closed.
+Customer 78 arives at the food court.
+The customer 78 leaves the food court in frustration. Food court is closed.
+Customer 79 arives at the food court.
+The customer 79 leaves the food court in frustration. Food court is closed.
+Customer 80 arives at the food court.
+The customer 80 leaves the food court in frustration. Food court is closed.
+Customer 81 arives at the food court.
+The customer 81 leaves the food court in frustration. Food court is closed.
+Customer 82 arives at the food court.
+The customer 82 leaves the food court in frustration. Food court is closed.
+Customer 83 arives at the food court.
+The customer 83 leaves the food court in frustration. Food court is closed.
+Customer 84 arives at the food court.
+The customer 84 leaves the food court in frustration. Food court is closed.
+Customer 85 arives at the food court.
+The customer 85 leaves the food court in frustration. Food court is closed.
+Customer 86 arives at the food court.
+The customer 86 leaves the food court in frustration. Food court is closed.
+Customer 87 arives at the food court.
+The customer 87 leaves the food court in frustration. Food court is closed.
+Customer 88 arives at the food court.
+The customer 88 leaves the food court in frustration. Food court is closed.
+Customer 89 arives at the food court.
+The customer 89 leaves the food court in frustration. Food court is closed.
+Customer 90 arives at the food court.
+The customer 90 leaves the food court in frustration. Food court is closed.
+Customer 91 arives at the food court.
+The customer 91 leaves the food court in frustration. Food court is closed.
+Customer 92 arives at the food court.
+The customer 92 leaves the food court in frustration. Food court is closed.
+Customer 93 arives at the food court.
+The customer 93 leaves the food court in frustration. Food court is closed.
+Customer 94 arives at the food court.
+The customer 94 leaves the food court in frustration. Food court is closed.
+Customer 95 arives at the food court.
+The customer 95 leaves the food court in frustration. Food court is closed.
+Customer 96 arives at the food court.
+The customer 96 leaves the food court in frustration. Food court is closed.
+Customer 97 arives at the food court.
+The customer 97 leaves the food court in frustration. Food court is closed.
+Customer 98 arives at the food court.
+The customer 98 leaves the food court in frustration. Food court is closed.
+Customer 99 arives at the food court.
+The customer 99 leaves the food court in frustration. Food court is closed.
+Customer 100 arives at the food court.
+The customer 100 leaves the food court in frustration. Food court is closed.
+Customer 101 arives at the food court.
+The customer 101 leaves the food court in frustration. Food court is closed.
+Customer 102 arives at the food court.
+The customer 102 leaves the food court in frustration. Food court is closed.
+Customer 103 arives at the food court.
+The customer 103 leaves the food court in frustration. Food court is closed.
+Customer 104 arives at the food court.
+The customer 104 leaves the food court in frustration. Food court is closed.
+Customer 105 arives at the food court.
+The customer 105 leaves the food court in frustration. Food court is closed.
+Customer 106 arives at the food court.
+The customer 106 leaves the food court in frustration. Food court is closed.
+Customer 107 arives at the food court.
+The customer 107 leaves the food court in frustration. Food court is closed.
+Customer 108 arives at the food court.
+The customer 108 leaves the food court in frustration. Food court is closed.
+Customer 109 arives at the food court.
+The customer 109 leaves the food court in frustration. Food court is closed.
+Customer 110 arives at the food court.
+The customer 110 leaves the food court in frustration. Food court is closed.
+Customer 111 arives at the food court.
+The customer 111 leaves the food court in frustration. Food court is closed.
+Customer 112 arives at the food court.
+The customer 112 leaves the food court in frustration. Food court is closed.
+Customer 113 arives at the food court.
+The customer 113 leaves the food court in frustration. Food court is closed.
+Customer 114 arives at the food court.
+The customer 114 leaves the food court in frustration. Food court is closed.
+Customer 115 arives at the food court.
+The customer 115 leaves the food court in frustration. Food court is closed.
+Customer 116 arives at the food court.
+The customer 116 leaves the food court in frustration. Food court is closed.
+Customer 117 arives at the food court.
+The customer 117 leaves the food court in frustration. Food court is closed.
+Customer 118 arives at the food court.
+The customer 118 leaves the food court in frustration. Food court is closed.
+Customer 119 arives at the food court.
+The customer 119 leaves the food court in frustration. Food court is closed.
+Customer 120 arives at the food court.
+The customer 120 leaves the food court in frustration. Food court is closed.
+Customer 121 arives at the food court.
+The customer 121 leaves the food court in frustration. Food court is closed.
+Customer 122 arives at the food court.
+The customer 122 leaves the food court in frustration. Food court is closed.
+Customer 123 arives at the food court.
+The customer 123 leaves the food court in frustration. Food court is closed.
+Customer 124 arives at the food court.
+The customer 124 leaves the food court in frustration. Food court is closed.
+Customer 125 arives at the food court.
+The customer 125 leaves the food court in frustration. Food court is closed.
+Customer 126 arives at the food court.
+The customer 126 leaves the food court in frustration. Food court is closed.
+Customer 127 arives at the food court.
+The customer 127 leaves the food court in frustration. Food court is closed.
+Customer 128 arives at the food court.
+The customer 128 leaves the food court in frustration. Food court is closed.
+Customer 129 arives at the food court.
+The customer 129 leaves the food court in frustration. Food court is closed.
+Customer 130 arives at the food court.
+The customer 130 leaves the food court in frustration. Food court is closed.
+Customer 131 arives at the food court.
+The customer 131 leaves the food court in frustration. Food court is closed.
+Customer 132 arives at the food court.
+The customer 132 leaves the food court in frustration. Food court is closed.
+Customer 133 arives at the food court.
+The customer 133 leaves the food court in frustration. Food court is closed.
+Customer 134 arives at the food court.
+The customer 134 leaves the food court in frustration. Food court is closed.
+Customer 135 arives at the food court.
+The customer 135 leaves the food court in frustration. Food court is closed.
+Customer 136 arives at the food court.
+The customer 136 leaves the food court in frustration. Food court is closed.
+Customer 137 arives at the food court.
+The customer 137 leaves the food court in frustration. Food court is closed.
+Customer 138 arives at the food court.
+The customer 138 leaves the food court in frustration. Food court is closed.
+Customer 139 arives at the food court.
+The customer 139 leaves the food court in frustration. Food court is closed.
+Customer 140 arives at the food court.
+The customer 140 leaves the food court in frustration. Food court is closed.
+Customer 141 arives at the food court.
+The customer 141 leaves the food court in frustration. Food court is closed.
+Customer 142 arives at the food court.
+The customer 142 leaves the food court in frustration. Food court is closed.
+Customer 143 arives at the food court.
+The customer 143 leaves the food court in frustration. Food court is closed.
+Customer 144 arives at the food court.
+The customer 144 leaves the food court in frustration. Food court is closed.
+Customer 145 arives at the food court.
+The customer 145 leaves the food court in frustration. Food court is closed.
+Customer 146 arives at the food court.
+The customer 146 leaves the food court in frustration. Food court is closed.
+Customer 147 arives at the food court.
+The customer 147 leaves the food court in frustration. Food court is closed.
+Customer 148 arives at the food court.
+The customer 148 leaves the food court in frustration. Food court is closed.
+Customer 149 arives at the food court.
+The customer 149 leaves the food court in frustration. Food court is closed.
+Customer 150 arives at the food court.
+The customer 150 leaves the food court in frustration. Food court is closed.
+Customer 151 arives at the food court.
+The customer 151 leaves the food court in frustration. Food court is closed.
+Customer 152 arives at the food court.
+The customer 152 leaves the food court in frustration. Food court is closed.
+Customer 153 arives at the food court.
+The customer 153 leaves the food court in frustration. Food court is closed.
+Customer 154 arives at the food court.
+The customer 154 leaves the food court in frustration. Food court is closed.
+Customer 155 arives at the food court.
+The customer 155 leaves the food court in frustration. Food court is closed.
+Customer 156 arives at the food court.
+The customer 156 leaves the food court in frustration. Food court is closed.
+Customer 157 arives at the food court.
+The customer 157 leaves the food court in frustration. Food court is closed.
+Customer 158 arives at the food court.
+The customer 158 leaves the food court in frustration. Food court is closed.
+Customer 159 arives at the food court.
+The customer 159 leaves the food court in frustration. Food court is closed.
+Customer 160 arives at the food court.
+The customer 160 leaves the food court in frustration. Food court is closed.
+Customer 161 arives at the food court.
+The customer 161 leaves the food court in frustration. Food court is closed.
+Customer 162 arives at the food court.
+The customer 162 leaves the food court in frustration. Food court is closed.
+Customer 163 arives at the food court.
+The customer 163 leaves the food court in frustration. Food court is closed.
+Customer 164 arives at the food court.
+The customer 164 leaves the food court in frustration. Food court is closed.
+Customer 165 arives at the food court.
+The customer 165 leaves the food court in frustration. Food court is closed.
+Customer 166 arives at the food court.
+The customer 166 leaves the food court in frustration. Food court is closed.
+Customer 167 arives at the food court.
+The customer 167 leaves the food court in frustration. Food court is closed.
+Customer 168 arives at the food court.
+The customer 168 leaves the food court in frustration. Food court is closed.
+Customer 169 arives at the food court.
+The customer 169 leaves the food court in frustration. Food court is closed.
+Customer 170 arives at the food court.
+The customer 170 leaves the food court in frustration. Food court is closed.
+Customer 171 arives at the food court.
+The customer 171 leaves the food court in frustration. Food court is closed.
+Customer 172 arives at the food court.
+The customer 172 leaves the food court in frustration. Food court is closed.
+Customer 173 arives at the food court.
+The customer 173 leaves the food court in frustration. Food court is closed.
+Customer 174 arives at the food court.
+The customer 174 leaves the food court in frustration. Food court is closed.
+Customer 175 arives at the food court.
+The customer 175 leaves the food court in frustration. Food court is closed.
+Customer 176 arives at the food court.
+The customer 176 leaves the food court in frustration. Food court is closed.
+Customer 177 arives at the food court.
+The customer 177 leaves the food court in frustration. Food court is closed.
+Customer 178 arives at the food court.
+The customer 178 leaves the food court in frustration. Food court is closed.
+Customer 179 arives at the food court.
+The customer 179 leaves the food court in frustration. Food court is closed.
+Customer 180 arives at the food court.
+The customer 180 leaves the food court in frustration. Food court is closed.
+Customer 181 arives at the food court.
+The customer 181 leaves the food court in frustration. Food court is closed.
+Customer 182 arives at the food court.
+The customer 182 leaves the food court in frustration. Food court is closed.
+Customer 183 arives at the food court.
+The customer 183 leaves the food court in frustration. Food court is closed.
+Customer 184 arives at the food court.
+The customer 184 leaves the food court in frustration. Food court is closed.
+Customer 185 arives at the food court.
+The customer 185 leaves the food court in frustration. Food court is closed.
+Customer 186 arives at the food court.
+The customer 186 leaves the food court in frustration. Food court is closed.
+Customer 187 arives at the food court.
+The customer 187 leaves the food court in frustration. Food court is closed.
+Customer 188 arives at the food court.
+The customer 188 leaves the food court in frustration. Food court is closed.
+Customer 189 arives at the food court.
+The customer 189 leaves the food court in frustration. Food court is closed.
+Customer 190 arives at the food court.
+The customer 190 leaves the food court in frustration. Food court is closed.
+Customer 191 arives at the food court.
+The customer 191 leaves the food court in frustration. Food court is closed.
+Customer 192 arives at the food court.
+The customer 192 leaves the food court in frustration. Food court is closed.
+Customer 193 arives at the food court.
+The customer 193 leaves the food court in frustration. Food court is closed.
+Customer 194 arives at the food court.
+The customer 194 leaves the food court in frustration. Food court is closed.
+Customer 195 arives at the food court.
+The customer 195 leaves the food court in frustration. Food court is closed.
+Customer 196 arives at the food court.
+The customer 196 leaves the food court in frustration. Food court is closed.
+Customer 197 arives at the food court.
+The customer 197 leaves the food court in frustration. Food court is closed.
+Customer 198 arives at the food court.
+The customer 198 leaves the food court in frustration. Food court is closed.
+Customer 199 arives at the food court.
+The customer 199 leaves the food court in frustration. Food court is closed.
+Customer 200 arives at the food court.
+The customer 200 leaves the food court in frustration. Food court is closed.
+Customer 201 arives at the food court.
+The customer 201 leaves the food court in frustration. Food court is closed.
+Customer 202 arives at the food court.
+The customer 202 leaves the food court in frustration. Food court is closed.
+Customer 203 arives at the food court.
+The customer 203 leaves the food court in frustration. Food court is closed.
+Customer 204 arives at the food court.
+The customer 204 leaves the food court in frustration. Food court is closed.
+Customer 205 arives at the food court.
+The customer 205 leaves the food court in frustration. Food court is closed.
+Customer 206 arives at the food court.
+The customer 206 leaves the food court in frustration. Food court is closed.
+Customer 207 arives at the food court.
+The customer 207 leaves the food court in frustration. Food court is closed.
+Customer 208 arives at the food court.
+The customer 208 leaves the food court in frustration. Food court is closed.
+Customer 209 arives at the food court.
+The customer 209 leaves the food court in frustration. Food court is closed.
+Customer 210 arives at the food court.
+The customer 210 leaves the food court in frustration. Food court is closed.
+Customer 211 arives at the food court.
+The customer 211 leaves the food court in frustration. Food court is closed.
+Customer 212 arives at the food court.
+The customer 212 leaves the food court in frustration. Food court is closed.
+Customer 213 arives at the food court.
+The customer 213 leaves the food court in frustration. Food court is closed.
+Customer 214 arives at the food court.
+The customer 214 leaves the food court in frustration. Food court is closed.
+Customer 215 arives at the food court.
+The customer 215 leaves the food court in frustration. Food court is closed.
+Customer 216 arives at the food court.
+The customer 216 leaves the food court in frustration. Food court is closed.
+Customer 217 arives at the food court.
+The customer 217 leaves the food court in frustration. Food court is closed.
+Customer 218 arives at the food court.
+The customer 218 leaves the food court in frustration. Food court is closed.
+Customer 219 arives at the food court.
+The customer 219 leaves the food court in frustration. Food court is closed.
+Customer 220 arives at the food court.
+The customer 220 leaves the food court in frustration. Food court is closed.
+Customer 221 arives at the food court.
+The customer 221 leaves the food court in frustration. Food court is closed.
+Customer 222 arives at the food court.
+The customer 222 leaves the food court in frustration. Food court is closed.
+Customer 223 arives at the food court.
+The customer 223 leaves the food court in frustration. Food court is closed.
+Customer 224 arives at the food court.
+The customer 224 leaves the food court in frustration. Food court is closed.
+Customer 225 arives at the food court.
+The customer 225 leaves the food court in frustration. Food court is closed.
+Customer 226 arives at the food court.
+The customer 226 leaves the food court in frustration. Food court is closed.
+Customer 227 arives at the food court.
+The customer 227 leaves the food court in frustration. Food court is closed.
+Customer 228 arives at the food court.
+The customer 228 leaves the food court in frustration. Food court is closed.
+Customer 229 arives at the food court.
+The customer 229 leaves the food court in frustration. Food court is closed.
+Customer 230 arives at the food court.
+The customer 230 leaves the food court in frustration. Food court is closed.
+Customer 231 arives at the food court.
+The customer 231 leaves the food court in frustration. Food court is closed.
+Customer 232 arives at the food court.
+The customer 232 leaves the food court in frustration. Food court is closed.
+Customer 233 arives at the food court.
+The customer 233 leaves the food court in frustration. Food court is closed.
+Customer 234 arives at the food court.
+The customer 234 leaves the food court in frustration. Food court is closed.
+Customer 235 arives at the food court.
+The customer 235 leaves the food court in frustration. Food court is closed.
+Customer 236 arives at the food court.
+The customer 236 leaves the food court in frustration. Food court is closed.
+Customer 237 arives at the food court.
+The customer 237 leaves the food court in frustration. Food court is closed.
+Customer 238 arives at the food court.
+The customer 238 leaves the food court in frustration. Food court is closed.
+Customer 239 arives at the food court.
+The customer 239 leaves the food court in frustration. Food court is closed.
+Customer 240 arives at the food court.
+The customer 240 leaves the food court in frustration. Food court is closed.
+Customer 241 arives at the food court.
+The customer 241 leaves the food court in frustration. Food court is closed.
+Customer 242 arives at the food court.
+The customer 242 leaves the food court in frustration. Food court is closed.
+Customer 243 arives at the food court.
+The customer 243 leaves the food court in frustration. Food court is closed.
+Customer 244 arives at the food court.
+The customer 244 leaves the food court in frustration. Food court is closed.
+Customer 245 arives at the food court.
+The customer 245 leaves the food court in frustration. Food court is closed.
+Customer 246 arives at the food court.
+The customer 246 leaves the food court in frustration. Food court is closed.
+Customer 247 arives at the food court.
+The customer 247 leaves the food court in frustration. Food court is closed.
+Customer 248 arives at the food court.
+The customer 248 leaves the food court in frustration. Food court is closed.
+Customer 249 arives at the food court.
+The customer 249 leaves the food court in frustration. Food court is closed.
+]0;haydent@turing: ~haydent@turing:~$ exit
+exit
+
+Script done on 2024-11-21 20:34:30-0600
